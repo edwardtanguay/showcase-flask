@@ -1,6 +1,6 @@
-# showcase-flask
+# showcase-flask-api
 
-A repo to learn and test Flask.
+A repo to learn and test Flask as an API.
 
 ## Set up 
 
